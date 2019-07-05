@@ -1,4 +1,6 @@
 
-Clone this repo
-Run npm install
-Run npm start
+1Clone this repo
+
+2Run npm install
+
+3Run npm start
